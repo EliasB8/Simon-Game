@@ -1,5 +1,5 @@
 # Simon-Game
-A simon-gmae build in HTML, CSS, JS and jQuery.
+The simon-game build in HTML, CSS, JS and jQuery.
 
 The Game goes like this 
   Firstly, the game shows the first colour. The user clicks on one the showen button.
